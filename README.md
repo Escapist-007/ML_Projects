@@ -33,3 +33,5 @@ Handwritten Digits Classification using **Multilayer Perceptron (MLP) Neural Net
 
 
 [Code](Project_02/My_Submission/nnScript.py)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Report](Project_02/My_Submission/report.pdf)
+
+[Back To The Top](#spring-2019)
