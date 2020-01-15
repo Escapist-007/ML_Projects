@@ -16,20 +16,20 @@ The project is about different classification and regression techniques. There a
 - Non-linear Regression
 - Compare and interpret the results of different classification and regression methods
 
-[Project_Code](Project_01/My_Submission/script.py)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Project_Report](Project_01/My_Submission/report.pdf)
+[Code](Project_01/My_Submission/script.py)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Report](Project_01/My_Submission/report.pdf)
 
 
 ### [Project_02](Project_02) :
 <img src="images/bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
 
 **Problem:** 
-Handwritten Digits Classification using `Multilayer Perceptron (MLP) Neural Network`.
+Handwritten Digits Classification using **Multilayer Perceptron (MLP) Neural Network**
 
 **Approach:**
 - Implement MLP Neural Network from scratch without to classify handwritten digits from MNIST dataset
 - Use Feed Forward, Back Propagation to implement Neural Network
-- Experiment the effect of regularization in the `bias-variance` trade-off
-- Use the same neural network for more challenging `face` dataset and compared it with `Deep Neural Network` and `Convolutional Neural Network` using the Tensorflow library
+- Experiment the effect of `regularization` in the `bias-variance` trade-off
+- Use the same neural network for more challenging face dataset and compared it with `Deep Neural Network` and `Convolutional Neural Network` using the Tensorflow library
 
 
-[Project_Code](Project_02/My_Submission/nnScript.py)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Project_Report](Project_02/My_Submission/report.pdf)
+[Code](Project_02/My_Submission/nnScript.py)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Report](Project_02/My_Submission/report.pdf)
