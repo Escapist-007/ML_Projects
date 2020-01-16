@@ -27,15 +27,35 @@ The project is about different classification and regression techniques. There a
 Handwritten Digits Classification using **Multilayer Perceptron (MLP) Neural Network**
 
 **Approach:**
-- Implement MLP Neural Network from scratch to classify handwritten digits from MNIST dataset
-- Use Feed Forward, Back Propagation to implement Neural Network
-- Experiment the effect of `regularization` in the `bias-variance` trade-off
-- Use the same neural network for more challenging face dataset and compared it with `Deep Neural Network` and `Convolutional Neural Network` using the Tensorflow library
+
+- Implemented MLP Neural Network from scratch to classify handwritten digits from MNIST dataset 
+   (achieved test accuracy of **93.45%**)
+- Used Feed Forward and Back Propagation to implement Neural Network
+- Experimented the effect of `regularization` in the `bias-variance` trade-off
+- Used the same neural network for more challenging face dataset and compared it with `Deep Neural Network` and `Convolutional Neural Network` using the Tensorflow library
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Code](Project_02/My_Submission/nnScript.py)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Report](Project_02/My_Submission/report.pdf)
 
 
+
 [Back To The Top](#spring-2019)
+
+
+
+### [Project_03](Project_03) :
+<img src="images/bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
+
+**Problem:** 
+The project is about **Support Vector Machine (SVM)** and mulit-class logistic regression.
+
+**Approach:**
+
+- Implemented Logistic Regression (using one-vs-all strategy) to classify handwritten digit images into correct corresponding labels. In particular, built 10 binary-classifiers (one for each class) to distinguish a given class from all other classes.
+- Developed multiclass logistic regression classifier and SVM for handwritten digits classification on the MNIST Dataset 
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Code](Project_03/My_Submission/script.py)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Report](Project_03/My_Submission/report.pdf)
+
 
 ---
 ## License
