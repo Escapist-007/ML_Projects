@@ -27,7 +27,7 @@ The project is about different classification and regression techniques. There a
 Handwritten Digits Classification using **Multilayer Perceptron (MLP) Neural Network**
 
 **Approach:**
-- Implement MLP Neural Network from scratch without to classify handwritten digits from MNIST dataset
+- Implement MLP Neural Network from scratch to classify handwritten digits from MNIST dataset
 - Use Feed Forward, Back Propagation to implement Neural Network
 - Experiment the effect of `regularization` in the `bias-variance` trade-off
 - Use the same neural network for more challenging face dataset and compared it with `Deep Neural Network` and `Convolutional Neural Network` using the Tensorflow library
